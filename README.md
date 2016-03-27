@@ -1,5 +1,7 @@
 # Improve at go
 
+[![Join the chat at https://gitter.im/MatMoore/go-improve](https://badges.gitter.im/MatMoore/go-improve.svg)](https://gitter.im/MatMoore/go-improve?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a web app for reviewing Go games, similar to the [Go teaching ladder](https://gtl.xmp.net/), which is unfortunately no longer accepting new games.
 
 The most basic functionality will be:
